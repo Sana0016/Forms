@@ -1,0 +1,76 @@
+body{
+  padding: 0 auto ;
+  margin: 0 ;
+} 
+.container {
+  width: 100vw;
+  height :100vh;
+  border:5px solid white;
+  border-radius :30px ;
+  background-color :#55CEFF;
+} 
+.sidebar{
+  width:80%;
+  color: white ;
+  background-color :#364df5;
+  border: 5px solid skyblue;
+  border-radius :30px ;
+  display: block;
+} 
+.content{
+  padding: 30px ;
+  margin: 10px ;
+  width: 92%;
+  background-color :white;
+  border-radius :30px ;
+} 
+p{
+  color :grey;
+} 
+.inside{
+ width:40%;
+ color: white;
+ background-color :blue;
+ border-radius :10px ;
+} 
+.image{
+  height: 80px ;
+  width: 50px ;
+} 
+
+.link{
+  text-decoration:none ;
+} 
+.button-login{
+  width :150px;
+  text-decoration: none ;
+} 
+.button{
+  border: none;
+  text-decoration: none ;
+}
+.design{
+  display :inline-block ;
+  border: 1px solid black ;
+  border-radius :3px ;
+} 
+.project{
+  display: inline-block ;
+  border: 1px solid black ;
+  border-radius :3px ;
+  margin: 20px ;
+  
+} 
+.create-account{
+  height: 100px ;
+  width: 100px ;
+  
+} 
+.lock{
+  width: 15px;
+  height: 15px;
+} 
+.Profile{
+  width: 15px;
+  height: 15px;
+} 
